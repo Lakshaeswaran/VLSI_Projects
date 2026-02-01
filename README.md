@@ -22,4 +22,4 @@ With that being said, Let's get started !!!
 <h2>Conclusion</h2> <p>I hope you all are eager to get started with digital design.</p>
 
 
-</br> <p>SO WHAT ARE YOU WAITING FOR? CLONE THE REPO AND RUN YOUR FIRST SIMULATION!</p> <p>HAPPY CODING !!!</p>
+</br> <p>SO WHAT ARE YOU WAITING FOR? START CODING AND RUN YOUR FIRST SIMULATION!</p> <p>HAPPY CODING !!!</p>

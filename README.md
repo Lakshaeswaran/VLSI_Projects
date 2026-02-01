@@ -12,7 +12,7 @@ With that being said, Let's get started !!!
 
 <h2>Requirements:</h2> <ul> <p>Design Suite&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp:&nbspXilinx Vivado</p> <p>Language&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp:&nbspVerilog HDL</ul>
 
-<h2>Project Components:</h2> <p>1. <b>Design Source:</b> The <code>half_adder.v</code> file containing the XOR and AND logic using dataflow modeling.</p> <p>2. <b>Simulation Source:</b> The <code>Half_Adder_TB.v</code> (Testbench) file used to drive input stimuli and verify the truth table.</p> <p>3. <b>Simulation Waveform:</b> Visual proof of the logic showing the Sum and Carry transitions for all input cases (00, 01, 10, 11).</p>
+<h2>Project Components:</h2> <p>1. <b>Design Source:</b> The <code>Half_Adder.v</code> file containing the XOR and AND logic using dataflow modeling.</p> <p>2. <b>Simulation Source:</b> The <code>Half_Adder_TB.v</code> (Testbench) file used to drive input stimuli and verify the truth table.</p> <p>3. <b>Simulation Waveform:</b> Visual proof of the logic showing the Sum and Carry transitions for all input cases (00, 01, 10, 11).</p>
 
 <h2>Additional Tips:</h2> <p>When viewing your results in Vivado, use the <b>"Zoom Fit"</b> button (or press 'F') to see the entire simulation waveform clearly.</p>
 

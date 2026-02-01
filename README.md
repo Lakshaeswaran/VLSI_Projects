@@ -4,7 +4,7 @@
 
 This project provides a clean and accurate RTL design of a Half Adder. The fun fact is, you can move from basic logic gates to a professional FPGA simulation environment within a few hours (sounds cool right !!!).
 
-<p>I created this project to bridge the gap between theoretical Boolean logic and practical Hardware Description Language (HDL). I learned the Vivado workflow and Verilog syntax on the fly, focusing on Dataflow modeling and Behavioral simulation.</p>
+<p>I created this project to bridge the gap between theoretical Boolean logic and practical Hardware Description Language (HDL). I learned the Vivado workflow and Verilog syntax on the fly, focusing on Dataflow modelling and Behavioral simulation.</p>
 
 If you are someone who is curious about VLSI, Digital Electronics, or FPGA development, I highly encourage you to start with this project to understand how code translates into hardware logic.
 
@@ -17,7 +17,7 @@ With that being said, Let's get started !!!
 <h2>Additional Tips:</h2> <p>When viewing your results in Vivado, use the <b>"Zoom Fit"</b> button (or press 'F') to see the entire simulation waveform clearly.</p>
 
 
-</br> <p>I know, HDL can feel intimidating at the beginning with terms like "Synthesis" and "Implementation." But the simplest way to learn is to write the code and see the waveforms move.</p> <p>If you want to understand the basics of the Vivado workflow, check out this quick guide: <a href="https://docs.amd.com/r/en-US/ug893-vivado-using-the-ide/Using-the-Vivado-IDE">Vivado Design Suite Documentation</a></p>
+</br> <p>I know, HDL can feel intimidating at the beginning with terms like "Synthesis" and "Implementation." But the simplest way to learn is to write the code and see the waveforms move.</p> <p>If you want to understand the basics of the Vivado workflow, check out this quick guide: <a href="[https://docs.amd.com/r/en-US/ug893-vivado-using-the-ide/Using-the-Vivado-IDE](https://www.amd.com/content/dam/xilinx/support/documents/sw_manuals/xilinx2022_1/ug893-vivado-ide.pdf)">Vivado Design Suite Documentation</a></p>
 
 <h2>Conclusion</h2> <p>I hope you all are eager to get started with digital design.</p>
 

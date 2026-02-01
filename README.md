@@ -14,10 +14,10 @@ With that being said, Let's get started !!!
 
 <h2>Project Components:</h2> <p>1. <b>Design Source:</b> The <code>Half_Adder.v</code> file containing the XOR and AND logic using dataflow modeling.</p> 
 <img width="1920" height="1080" alt="Screenshot 2026-02-01 185708" src="https://github.com/user-attachments/assets/2ce2661d-d207-4f7d-977e-c2b38d3ce1c5" />
-<p>2. <b>Simulation Source:</b> The <code>Half_Adder_TB.v</code> (Testbench) file used to drive input stimuli and verify the truth table.</p> <p>3. 
+<p>2. <b>Simulation Source:</b> The <code>Half_Adder_TB.v</code> (Testbench) file used to drive input stimuli and verify the truth table.</p> 
 <img width="1920" height="1080" alt="Screenshot 2026-02-01 185723" src="https://github.com/user-attachments/assets/ed4c0523-400d-466d-a42d-992da665cd2b" />
   
-<b>Simulation Waveform:</b> Visual proof of the logic showing the Sum and Carry transitions for all input cases (00, 01, 10, 11).</p>
+<p>3. <b>Simulation Waveform:</b> Visual proof of the logic showing the Sum and Carry transitions for all input cases (00, 01, 10, 11).</p>
 
 
 
